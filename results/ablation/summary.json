@@ -1,0 +1,221 @@
+[
+  {
+    "label": "full_5_flag",
+    "thresholds": {},
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 231,
+      "rate": 0.0462
+    }
+  },
+  {
+    "label": "no_PT_surprise",
+    "thresholds": {},
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 231,
+      "rate": 0.0462
+    }
+  },
+  {
+    "label": "no_PT_rank",
+    "thresholds": {},
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 231,
+      "rate": 0.0462
+    }
+  },
+  {
+    "label": "no_PT_surprise_and_rank",
+    "thresholds": {},
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 231,
+      "rate": 0.0462
+    }
+  },
+  {
+    "label": "minimal_PT_imp_plus_seq",
+    "thresholds": {},
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 231,
+      "rate": 0.0462
+    }
+  },
+  {
+    "label": "no_SQ_low_likelihood",
+    "thresholds": {
+      "SQ_NORM_LL_Z_MAX": -1000000000.0
+    },
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 0,
+        "recall": 0.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 87,
+      "rate": 0.0174
+    }
+  },
+  {
+    "label": "no_SQ_edge_repeat",
+    "thresholds": {},
+    "by_class": {
+      "skipped_step": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "impossible": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      },
+      "pingpong": {
+        "n": 250,
+        "detected": 0,
+        "recall": 0.0
+      },
+      "unlikely_branch": {
+        "n": 250,
+        "detected": 250,
+        "recall": 1.0
+      }
+    },
+    "fp_normal": {
+      "n": 5000,
+      "fp": 179,
+      "rate": 0.0358
+    }
+  }
+]

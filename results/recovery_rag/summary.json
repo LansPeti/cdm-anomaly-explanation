@@ -1,0 +1,36 @@
+{
+  "n": 40,
+  "mode": "rag",
+  "by_class": {
+    "impossible": {
+      "n": 10,
+      "mean_judge": 0.83,
+      "mean_class_match": 0.9,
+      "mean_rho": 0.851
+    },
+    "pingpong": {
+      "n": 10,
+      "mean_judge": 0.815,
+      "mean_class_match": 1,
+      "mean_rho": 0.8705
+    },
+    "skipped_step": {
+      "n": 10,
+      "mean_judge": 0.9,
+      "mean_class_match": 0.1,
+      "mean_rho": 0.66
+    },
+    "unlikely_branch": {
+      "n": 10,
+      "mean_judge": 0.86,
+      "mean_class_match": 0.9,
+      "mean_rho": 0.872
+    }
+  },
+  "aggregate": {
+    "n": 40,
+    "mean_judge": 0.8513,
+    "mean_class_match": 0.725,
+    "mean_rho": 0.8134
+  }
+}

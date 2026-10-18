@@ -1,0 +1,30 @@
+{
+  "e2e_100": {
+    "n": 100,
+    "clean": 78,
+    "clean_rate": 0.78,
+    "category_incidence": {
+      "entity_confusion": 22
+    },
+    "category_incidence_pct": {
+      "entity_confusion": 0.22
+    },
+    "mean_total_findings": 0.38
+  },
+  "rag_recovery": {
+    "n": 40,
+    "clean": 11,
+    "clean_rate": 0.275,
+    "category_incidence": {
+      "entity_confusion": 29,
+      "omission": 29,
+      "causal_prescription": 1
+    },
+    "category_incidence_pct": {
+      "entity_confusion": 0.725,
+      "omission": 0.725,
+      "causal_prescription": 0.025
+    },
+    "mean_total_findings": 2.8
+  }
+}

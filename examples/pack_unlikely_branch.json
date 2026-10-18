@@ -1,0 +1,33 @@
+{
+  "trade_id": "TRD-EXAMPLE-UNLIKELY-001",
+  "trace": [
+    "NEW",
+    "REJECTED"
+  ],
+  "trace_length": 2,
+  "edge_count_distribution": {
+    "NEW->REJECTED": 1
+  },
+  "sequence_level": {
+    "norm_log_likelihood": -3.58,
+    "norm_ll_z_score": -5.13,
+    "max_edge_repeat": 1,
+    "most_repeated_edge": [
+      "NEW",
+      "REJECTED"
+    ],
+    "fired": [
+      {
+        "name": "SQ-low-likelihood",
+        "interpretation": "The trace's overall normalized log-likelihood is unusually low compared to normal traces."
+      }
+    ]
+  },
+  "transition_findings": [],
+  "verdict": {
+    "is_anomalous": true,
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ]
+  }
+}

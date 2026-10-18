@@ -1,0 +1,8 @@
+{
+  "n": 40,
+  "mean_faithfulness_rho": 0.8134,
+  "mean_judge": 0.8513,
+  "mean_plausibility": 0.8312,
+  "mean_sensemaking": 0.8638,
+  "mean_embedding_similarity": 0.7706
+}

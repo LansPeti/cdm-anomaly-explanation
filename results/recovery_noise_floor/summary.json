@@ -1,0 +1,6 @@
+{
+  "n": 40,
+  "noise_floor_rho": 0.058,
+  "noise_floor_judge": 0.04,
+  "noise_floor_class_match": 0.1
+}

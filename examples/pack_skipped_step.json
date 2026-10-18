@@ -1,0 +1,82 @@
+{
+  "trade_id": "TRD-EXAMPLE-SKIPPED-001",
+  "trace": [
+    "NEW",
+    "EXECUTED",
+    "CAPTURED",
+    "MATCHED",
+    "CLEARED",
+    "SETTLED"
+  ],
+  "trace_length": 6,
+  "edge_count_distribution": {
+    "NEW->EXECUTED": 1,
+    "EXECUTED->CAPTURED": 1,
+    "CAPTURED->MATCHED": 1,
+    "MATCHED->CLEARED": 1,
+    "CLEARED->SETTLED": 1
+  },
+  "sequence_level": {
+    "norm_log_likelihood": -1.867,
+    "norm_ll_z_score": -2.45,
+    "max_edge_repeat": 1,
+    "most_repeated_edge": [
+      "NEW",
+      "EXECUTED"
+    ],
+    "fired": [
+      {
+        "name": "SQ-low-likelihood",
+        "interpretation": "The trace's overall normalized log-likelihood is unusually low compared to normal traces."
+      }
+    ]
+  },
+  "transition_findings": [
+    {
+      "step": 2,
+      "observed_transition": {
+        "from": "CAPTURED",
+        "to": "MATCHED"
+      },
+      "p_observed": 0.0001,
+      "surprise_nats": 9.17,
+      "rank_among_candidates": 7,
+      "n_candidates": 12,
+      "gap_from_top1": 0.956,
+      "expected_top3": [
+        {
+          "state": "ENRICHED",
+          "probability": 0.9561
+        },
+        {
+          "state": "CANCELLED",
+          "probability": 0.0428
+        },
+        {
+          "state": "EXECUTED",
+          "probability": 0.0001
+        }
+      ],
+      "training_count": 0,
+      "fired_flags": [
+        "PT-impossible",
+        "PT-surprise",
+        "PT-rank"
+      ],
+      "fired_interpretations": [
+        "The transition was never observed in normal training data — structurally invalid under the fitted model.",
+        "The transition has very low probability (high information content) under the fitted model.",
+        "The observed next-state was not among the top expected continuations from the source state."
+      ]
+    }
+  ],
+  "verdict": {
+    "is_anomalous": true,
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ]
+  }
+}

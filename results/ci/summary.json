@@ -1,0 +1,41 @@
+{
+  "by_class": {
+    "impossible": {
+      "n": 250,
+      "detected": 250,
+      "recall": 1.0,
+      "ci_low": 0.9853528113643196,
+      "ci_high": 1.0
+    },
+    "pingpong": {
+      "n": 250,
+      "detected": 250,
+      "recall": 1.0,
+      "ci_low": 0.9853528113643196,
+      "ci_high": 1.0
+    },
+    "skipped_step": {
+      "n": 250,
+      "detected": 250,
+      "recall": 1.0,
+      "ci_low": 0.9853528113643196,
+      "ci_high": 1.0
+    },
+    "unlikely_branch": {
+      "n": 250,
+      "detected": 250,
+      "recall": 1.0,
+      "ci_low": 0.9853528113643196,
+      "ci_high": 1.0
+    }
+  },
+  "aggregate": {
+    "recall": {
+      "n": 1000,
+      "detected": 1000,
+      "point": 1.0,
+      "ci_low": 0.9963179161031344,
+      "ci_high": 1.0
+    }
+  }
+}

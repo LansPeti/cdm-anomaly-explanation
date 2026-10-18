@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_tmp_runs/
+.ruff_cache/
+.mypy_cache/
+
+# Generated data and models (regenerate with `make data`)
+data/
+eval_results.json
+
+# Bulky per-trace experiment output — only the summaries are committed
+results/e2e/*.md
+results/e2e/*.pack.json
+results/determinism/*
+!results/determinism/summary.json
+
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

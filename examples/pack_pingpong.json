@@ -1,0 +1,70 @@
+{
+  "trade_id": "TRD-EXAMPLE-PINGPONG-001",
+  "trace": [
+    "NEW",
+    "EXECUTED",
+    "CAPTURED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "UNMATCHED_ERROR",
+    "AMENDED",
+    "ENRICHED",
+    "MATCHED",
+    "CLEARED",
+    "SETTLED"
+  ],
+  "trace_length": 31,
+  "edge_count_distribution": {
+    "NEW->EXECUTED": 1,
+    "EXECUTED->CAPTURED": 1,
+    "CAPTURED->ENRICHED": 1,
+    "ENRICHED->UNMATCHED_ERROR": 8,
+    "UNMATCHED_ERROR->AMENDED": 8,
+    "AMENDED->ENRICHED": 8,
+    "ENRICHED->MATCHED": 1,
+    "MATCHED->CLEARED": 1,
+    "CLEARED->SETTLED": 1
+  },
+  "sequence_level": {
+    "norm_log_likelihood": -0.528,
+    "norm_ll_z_score": -0.36,
+    "max_edge_repeat": 8,
+    "most_repeated_edge": [
+      "ENRICHED",
+      "UNMATCHED_ERROR"
+    ],
+    "fired": [
+      {
+        "name": "SQ-edge-repeat",
+        "interpretation": "An edge in the trace repeats far more often than is normal — consistent with a cyclic or stuck-loop pattern."
+      }
+    ]
+  },
+  "transition_findings": [],
+  "verdict": {
+    "is_anomalous": true,
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ]
+  }
+}

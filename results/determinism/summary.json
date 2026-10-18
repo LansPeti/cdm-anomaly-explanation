@@ -1,0 +1,58 @@
+[
+  {
+    "label": "skipped_step",
+    "trade_id": "TRD-2026-SKIPPED_STEP-000000",
+    "n_reps": 5,
+    "n_unique": 2,
+    "is_deterministic": false,
+    "hashes": [
+      "0f20210b1363",
+      "4034286f1d3b",
+      "4034286f1d3b",
+      "4034286f1d3b",
+      "4034286f1d3b"
+    ]
+  },
+  {
+    "label": "impossible",
+    "trade_id": "TRD-2026-IMPOSSIBLE-000250",
+    "n_reps": 5,
+    "n_unique": 4,
+    "is_deterministic": false,
+    "hashes": [
+      "29ded74e7f6e",
+      "b6b57219348c",
+      "b4ebcf0a63a5",
+      "b4ebcf0a63a5",
+      "c2b7f45d49be"
+    ]
+  },
+  {
+    "label": "pingpong",
+    "trade_id": "TRD-2026-PINGPONG-000500",
+    "n_reps": 5,
+    "n_unique": 4,
+    "is_deterministic": false,
+    "hashes": [
+      "840b3cac4a91",
+      "c7f1bbf89c53",
+      "dcd9824a3371",
+      "f5defd751b51",
+      "dcd9824a3371"
+    ]
+  },
+  {
+    "label": "unlikely_branch",
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000750",
+    "n_reps": 5,
+    "n_unique": 5,
+    "is_deterministic": false,
+    "hashes": [
+      "392ce576f53e",
+      "ddc6a0dc44e0",
+      "c8c6d0fb4835",
+      "9deef8abd96c",
+      "cc2c24368741"
+    ]
+  }
+]

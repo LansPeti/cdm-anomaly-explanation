@@ -1,0 +1,84 @@
+{
+  "my": {
+    "min": 5,
+    "max": 95,
+    "median": 92.0,
+    "mean": 84.95,
+    "stdev": 20.180374129336652
+  },
+  "judge": {
+    "min": 0.0,
+    "max": 100.0,
+    "median": 90.0,
+    "mean": 84.0,
+    "stdev": 22.67156809750927
+  },
+  "per_class": {
+    "impossible": {
+      "my_mean": 76,
+      "judge_mean": 73.0,
+      "n": 10
+    },
+    "pingpong": {
+      "my_mean": 88,
+      "judge_mean": 89.0,
+      "n": 10
+    },
+    "skipped_step": {
+      "my_mean": 86.6,
+      "judge_mean": 84.0,
+      "n": 10
+    },
+    "unlikely_branch": {
+      "my_mean": 89.2,
+      "judge_mean": 90.0,
+      "n": 10
+    }
+  },
+  "pearson": 0.9299032274114112,
+  "spearman": 0.3632671458004982,
+  "top_disagreements": [
+    {
+      "idx": 1,
+      "class": "skipped_step",
+      "my_score": 50,
+      "judge_score": 20.0,
+      "abs_diff": 30.0
+    },
+    {
+      "idx": 36,
+      "class": "unlikely_branch",
+      "my_score": 92,
+      "judge_score": 70.0,
+      "abs_diff": 22.0
+    },
+    {
+      "idx": 34,
+      "class": "unlikely_branch",
+      "my_score": 75,
+      "judge_score": 90.0,
+      "abs_diff": 15.0
+    },
+    {
+      "idx": 38,
+      "class": "unlikely_branch",
+      "my_score": 75,
+      "judge_score": 90.0,
+      "abs_diff": 15.0
+    },
+    {
+      "idx": 8,
+      "class": "skipped_step",
+      "my_score": 88,
+      "judge_score": 100.0,
+      "abs_diff": 12.0
+    },
+    {
+      "idx": 20,
+      "class": "pingpong",
+      "my_score": 80,
+      "judge_score": 90.0,
+      "abs_diff": 10.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "trade_id": "TRD-EXAMPLE-NORMAL-001",
+  "trace": [
+    "NEW",
+    "EXECUTED",
+    "CAPTURED",
+    "ENRICHED",
+    "MATCHED",
+    "CLEARED",
+    "SETTLED"
+  ],
+  "trace_length": 7,
+  "edge_count_distribution": {
+    "NEW->EXECUTED": 1,
+    "EXECUTED->CAPTURED": 1,
+    "CAPTURED->ENRICHED": 1,
+    "ENRICHED->MATCHED": 1,
+    "MATCHED->CLEARED": 1,
+    "CLEARED->SETTLED": 1
+  },
+  "sequence_level": {
+    "norm_log_likelihood": -0.061,
+    "norm_ll_z_score": 0.37,
+    "max_edge_repeat": 1,
+    "most_repeated_edge": [
+      "NEW",
+      "EXECUTED"
+    ],
+    "fired": []
+  },
+  "transition_findings": [],
+  "verdict": {
+    "is_anomalous": false,
+    "fired_signals": []
+  }
+}

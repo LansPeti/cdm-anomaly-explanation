@@ -1,0 +1,3337 @@
+[
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000250",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 364,
+      "prompt_tokens": 3187,
+      "total_tokens": 3551,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000250.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000251",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 462,
+      "prompt_tokens": 3479,
+      "total_tokens": 3941,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000251.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000252",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 443,
+      "prompt_tokens": 3419,
+      "total_tokens": 3862,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000252.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000253",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 488,
+      "prompt_tokens": 3480,
+      "total_tokens": 3968,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000253.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000254",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 427,
+      "prompt_tokens": 3401,
+      "total_tokens": 3828,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000254.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000255",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 453,
+      "prompt_tokens": 3481,
+      "total_tokens": 3934,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000255.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000256",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 480,
+      "prompt_tokens": 3481,
+      "total_tokens": 3961,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000256.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000257",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 484,
+      "prompt_tokens": 3460,
+      "total_tokens": 3944,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000257.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000258",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 535,
+      "prompt_tokens": 3487,
+      "total_tokens": 4022,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000258.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000259",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 490,
+      "prompt_tokens": 3486,
+      "total_tokens": 3976,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2432
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000259.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000260",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 455,
+      "prompt_tokens": 3480,
+      "total_tokens": 3935,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000260.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000261",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 471,
+      "prompt_tokens": 3480,
+      "total_tokens": 3951,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000261.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000262",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 342,
+      "prompt_tokens": 3129,
+      "total_tokens": 3471,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000262.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000263",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 341,
+      "prompt_tokens": 3133,
+      "total_tokens": 3474,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000263.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000264",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 453,
+      "prompt_tokens": 3477,
+      "total_tokens": 3930,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000264.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000265",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 361,
+      "prompt_tokens": 3152,
+      "total_tokens": 3513,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2432
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000265.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000266",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 463,
+      "prompt_tokens": 3492,
+      "total_tokens": 3955,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000266.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000267",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 472,
+      "prompt_tokens": 3460,
+      "total_tokens": 3932,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000267.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000268",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 455,
+      "prompt_tokens": 3485,
+      "total_tokens": 3940,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000268.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000269",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 507,
+      "prompt_tokens": 3490,
+      "total_tokens": 3997,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000269.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000270",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 491,
+      "prompt_tokens": 3547,
+      "total_tokens": 4038,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000270.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000271",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 482,
+      "prompt_tokens": 3466,
+      "total_tokens": 3948,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000271.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000272",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 506,
+      "prompt_tokens": 3460,
+      "total_tokens": 3966,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000272.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000273",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 359,
+      "prompt_tokens": 3133,
+      "total_tokens": 3492,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000273.md"
+  },
+  {
+    "trade_id": "TRD-2026-IMPOSSIBLE-000274",
+    "label": "impossible",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 2,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 532,
+      "prompt_tokens": 3481,
+      "total_tokens": 4013,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/impossible_TRD-2026-IMPOSSIBLE-000274.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000500",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 416,
+      "prompt_tokens": 2997,
+      "total_tokens": 3413,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000500.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000501",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 454,
+      "prompt_tokens": 3054,
+      "total_tokens": 3508,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000501.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000502",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 416,
+      "prompt_tokens": 2997,
+      "total_tokens": 3413,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000502.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000503",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 463,
+      "prompt_tokens": 3054,
+      "total_tokens": 3517,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000503.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000504",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 443,
+      "prompt_tokens": 3035,
+      "total_tokens": 3478,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000504.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000505",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 416,
+      "prompt_tokens": 2997,
+      "total_tokens": 3413,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000505.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000506",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 470,
+      "prompt_tokens": 3054,
+      "total_tokens": 3524,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000506.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000507",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 418,
+      "prompt_tokens": 3016,
+      "total_tokens": 3434,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000507.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000508",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 432,
+      "prompt_tokens": 3035,
+      "total_tokens": 3467,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000508.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000509",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 432,
+      "prompt_tokens": 3016,
+      "total_tokens": 3448,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000509.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000510",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 418,
+      "prompt_tokens": 3016,
+      "total_tokens": 3434,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000510.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000511",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 391,
+      "prompt_tokens": 2959,
+      "total_tokens": 3350,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000511.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000512",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 408,
+      "prompt_tokens": 2978,
+      "total_tokens": 3386,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000512.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000513",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 416,
+      "prompt_tokens": 2997,
+      "total_tokens": 3413,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000513.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000514",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 478,
+      "prompt_tokens": 3123,
+      "total_tokens": 3601,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 3072
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000514.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000515",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 417,
+      "prompt_tokens": 2997,
+      "total_tokens": 3414,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000515.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000516",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 392,
+      "prompt_tokens": 2959,
+      "total_tokens": 3351,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000516.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000517",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 452,
+      "prompt_tokens": 3054,
+      "total_tokens": 3506,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000517.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000518",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 443,
+      "prompt_tokens": 3035,
+      "total_tokens": 3478,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000518.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000519",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 391,
+      "prompt_tokens": 2959,
+      "total_tokens": 3350,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000519.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000520",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 439,
+      "prompt_tokens": 3035,
+      "total_tokens": 3474,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000520.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000521",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 446,
+      "prompt_tokens": 3035,
+      "total_tokens": 3481,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000521.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000522",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 419,
+      "prompt_tokens": 3035,
+      "total_tokens": 3454,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000522.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000523",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 419,
+      "prompt_tokens": 3016,
+      "total_tokens": 3435,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000523.md"
+  },
+  {
+    "trade_id": "TRD-2026-PINGPONG-000524",
+    "label": "pingpong",
+    "fired_signals": [
+      "SQ-edge-repeat"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 405,
+      "prompt_tokens": 3016,
+      "total_tokens": 3421,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/pingpong_TRD-2026-PINGPONG-000524.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000000",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 450,
+      "prompt_tokens": 3188,
+      "total_tokens": 3638,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 3072
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000000.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000001",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 370,
+      "prompt_tokens": 3188,
+      "total_tokens": 3558,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000001.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000002",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 361,
+      "prompt_tokens": 3184,
+      "total_tokens": 3545,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000002.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000003",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 368,
+      "prompt_tokens": 3194,
+      "total_tokens": 3562,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000003.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000004",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 343,
+      "prompt_tokens": 3113,
+      "total_tokens": 3456,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000004.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000005",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 362,
+      "prompt_tokens": 3184,
+      "total_tokens": 3546,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000005.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000006",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 364,
+      "prompt_tokens": 3184,
+      "total_tokens": 3548,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000006.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000007",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 341,
+      "prompt_tokens": 3113,
+      "total_tokens": 3454,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000007.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000008",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 341,
+      "prompt_tokens": 3113,
+      "total_tokens": 3454,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000008.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000009",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 375,
+      "prompt_tokens": 3261,
+      "total_tokens": 3636,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000009.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000010",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 369,
+      "prompt_tokens": 3194,
+      "total_tokens": 3563,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000010.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000011",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 342,
+      "prompt_tokens": 3113,
+      "total_tokens": 3455,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000011.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000012",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 372,
+      "prompt_tokens": 3188,
+      "total_tokens": 3560,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000012.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000013",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 368,
+      "prompt_tokens": 3194,
+      "total_tokens": 3562,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000013.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000014",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 355,
+      "prompt_tokens": 3133,
+      "total_tokens": 3488,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000014.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000015",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 374,
+      "prompt_tokens": 3177,
+      "total_tokens": 3551,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000015.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000016",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 343,
+      "prompt_tokens": 3113,
+      "total_tokens": 3456,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000016.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000017",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 370,
+      "prompt_tokens": 3175,
+      "total_tokens": 3545,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000017.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000018",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 346,
+      "prompt_tokens": 3113,
+      "total_tokens": 3459,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000018.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000019",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 354,
+      "prompt_tokens": 3113,
+      "total_tokens": 3467,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000019.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000020",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 342,
+      "prompt_tokens": 3113,
+      "total_tokens": 3455,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000020.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000021",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 363,
+      "prompt_tokens": 3184,
+      "total_tokens": 3547,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000021.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000022",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 372,
+      "prompt_tokens": 3188,
+      "total_tokens": 3560,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000022.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000023",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 368,
+      "prompt_tokens": 3172,
+      "total_tokens": 3540,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000023.md"
+  },
+  {
+    "trade_id": "TRD-2026-SKIPPED_STEP-000024",
+    "label": "skipped_step",
+    "fired_signals": [
+      "PT-impossible",
+      "PT-surprise",
+      "PT-rank",
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 1,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 364,
+      "prompt_tokens": 3188,
+      "total_tokens": 3552,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/skipped_step_TRD-2026-SKIPPED_STEP-000024.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000750",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 228,
+      "prompt_tokens": 2722,
+      "total_tokens": 2950,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000750.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000751",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 250,
+      "prompt_tokens": 2722,
+      "total_tokens": 2972,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000751.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000752",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 249,
+      "prompt_tokens": 2722,
+      "total_tokens": 2971,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000752.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000753",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 225,
+      "prompt_tokens": 2722,
+      "total_tokens": 2947,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000753.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000754",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 226,
+      "prompt_tokens": 2722,
+      "total_tokens": 2948,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000754.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000755",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 237,
+      "prompt_tokens": 2722,
+      "total_tokens": 2959,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000755.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000756",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 222,
+      "prompt_tokens": 2722,
+      "total_tokens": 2944,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000756.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000757",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 266,
+      "prompt_tokens": 2722,
+      "total_tokens": 2988,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000757.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000758",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 234,
+      "prompt_tokens": 2722,
+      "total_tokens": 2956,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000758.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000759",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 233,
+      "prompt_tokens": 2722,
+      "total_tokens": 2955,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000759.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000760",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 228,
+      "prompt_tokens": 2722,
+      "total_tokens": 2950,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000760.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000761",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 229,
+      "prompt_tokens": 2722,
+      "total_tokens": 2951,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000761.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000762",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 251,
+      "prompt_tokens": 2722,
+      "total_tokens": 2973,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000762.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000763",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 258,
+      "prompt_tokens": 2722,
+      "total_tokens": 2980,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000763.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000764",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 244,
+      "prompt_tokens": 2722,
+      "total_tokens": 2966,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000764.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000765",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 254,
+      "prompt_tokens": 2722,
+      "total_tokens": 2976,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000765.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000766",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 245,
+      "prompt_tokens": 2722,
+      "total_tokens": 2967,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000766.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000767",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 262,
+      "prompt_tokens": 2722,
+      "total_tokens": 2984,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 1920
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000767.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000768",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 248,
+      "prompt_tokens": 2722,
+      "total_tokens": 2970,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000768.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000769",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 232,
+      "prompt_tokens": 2722,
+      "total_tokens": 2954,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000769.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000770",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 256,
+      "prompt_tokens": 2722,
+      "total_tokens": 2978,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000770.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000771",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 258,
+      "prompt_tokens": 2722,
+      "total_tokens": 2980,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000771.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000772",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 248,
+      "prompt_tokens": 2722,
+      "total_tokens": 2970,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000772.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000773",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 239,
+      "prompt_tokens": 2722,
+      "total_tokens": 2961,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000773.md"
+  },
+  {
+    "trade_id": "TRD-2026-UNLIKELY_BRANCH-000774",
+    "label": "unlikely_branch",
+    "fired_signals": [
+      "SQ-low-likelihood"
+    ],
+    "n_transition_findings": 0,
+    "validation": {
+      "ok": true,
+      "issues": []
+    },
+    "hallucination": {
+      "hallucination_ok": true,
+      "issues": []
+    },
+    "usage": {
+      "completion_tokens": 247,
+      "prompt_tokens": 2722,
+      "total_tokens": 2969,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 2176
+      }
+    },
+    "explanation_path": "experiments/output/unlikely_branch_TRD-2026-UNLIKELY_BRANCH-000774.md"
+  }
+]

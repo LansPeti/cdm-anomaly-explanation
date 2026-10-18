@@ -1,0 +1,9 @@
+{
+  "n_specs": 40,
+  "k": 3,
+  "threshold": 0.7,
+  "RTC_at_3": 0.7,
+  "mean_modal_class_agreement": 0.9667,
+  "mean_within_spec_rho_stdev": 0.0534,
+  "mean_aggregate_rho": 0.7798
+}
