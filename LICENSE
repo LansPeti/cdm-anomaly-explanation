@@ -1,0 +1,27 @@
+Copyright (c) 2026 Péter Lanszki and the project contributors.
+All rights reserved.
+
+This repository is made publicly visible solely so that it can be viewed and
+assessed as the implementation accompanying the BSc thesis "Adapting Large
+Language Models to Financial Domain Knowledge — Faithful, Auditable Narration
+of Trade-Lifecycle Anomalies" (Pázmány Péter Catholic University, Faculty of
+Information Technology and Bionics, 2026).
+
+No licence is granted. Without the prior written permission of the copyright
+holder, you may not use, copy, modify, merge, publish, distribute,
+sublicense, sell, or create derivative works from this software, its
+documentation, or its data and results, in whole or in part, including for
+training, fine-tuning, or evaluating machine-learning models.
+
+Viewing the source code, and forking it on GitHub, are permitted only to the
+extent required by the GitHub Terms of Service; such forks confer no right to
+use the software for any other purpose.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permission requests, contact the author via GitHub (@LansPeti).

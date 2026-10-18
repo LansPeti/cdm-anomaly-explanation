@@ -119,3 +119,9 @@ retrieves from `experiments/rag_corpus/` plus `examples/gold_explanations.md`.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — branching workflow, tests, and
 code conventions.
+
+## License
+
+All rights reserved — see [LICENSE](LICENSE). The code is public only so it
+can be viewed and assessed alongside the thesis; any other use requires the
+author's written permission.
